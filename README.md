@@ -2,7 +2,7 @@
 A structured 12-month sprint-based learning journey in Python for Data Analytics, Backend Development, Data Science, and AI/ML. Includes real-world freelance-style projects with Kaggle datasets.
 
 
-# Python Data Journey 🚀
+# 12 Months Data Journey 🚀
 
 This repository documents my **12-month sprint-based learning journey** to become a Python-focused data professional.  
 The roadmap covers **Data Analytics → Backend Development → Data Science → AI/ML**, with projects designed to simulate **real freelance gigs** using Kaggle datasets.
@@ -36,5 +36,3 @@ Each sprint follows a **3-day cycle**:
 
 ---
 
-## 🌍 Portfolio Index
-See [portfolio_index.md](portfolio_index.md) for a full list of completed projects, datasets, and social posts.
